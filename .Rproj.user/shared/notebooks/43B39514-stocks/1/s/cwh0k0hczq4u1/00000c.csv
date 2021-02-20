@@ -1,0 +1,6 @@
+"0","temp <- as.numeric(stocks$high)"
+"0","scatter.smooth(x = temp, y = as.numeric(stocks$close) - 1, "
+"0","               pch = 19, xlab = ""Low"", ylab = ""Close"")"
+"2","Error in simpleLoess(y, x, w, span, degree = degree, parametric = FALSE,  : 
+  NA/NaN/Inf in foreign function call (arg 1)
+"

@@ -1,0 +1,3 @@
+"0",""
+"0","scatter.smooth(x = stocks$low, y = as.numeric(stocks$close) - 1, "
+"0","               pch = 19, xlab = ""Low"", ylab = ""Close"")"

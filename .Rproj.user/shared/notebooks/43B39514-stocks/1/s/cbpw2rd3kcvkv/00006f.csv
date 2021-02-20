@@ -1,0 +1,6 @@
+"0","ggplot(data = stocks, mapping = aes(y = close, x = open)) +"
+"0","  geom_point() +"
+"0","  geom_jitter(height = 0.1) +  # this is what makes the jitter"
+"0","  # you can change the height argument to see how it affects the jittering"
+"0","  theme_bw() +"
+"0","  theme(aspect.ratio = 1)"

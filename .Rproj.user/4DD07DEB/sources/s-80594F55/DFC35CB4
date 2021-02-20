@@ -1,0 +1,32 @@
+{
+    "id": "DFC35CB4",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1613602739127.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "temp",
+        "caption": "temp",
+        "totalObservations": 351,
+        "displayedObservations": 351,
+        "variables": 5,
+        "cacheKey": "ED5A9D57",
+        "object": "temp",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=temp&cache_key=ED5A9D57&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 8531077964050754157,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1613602739127,
+    "read_only": false,
+    "read_only_alternatives": []
+}

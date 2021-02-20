@@ -1,0 +1,2 @@
+"0","stocks <- read.csv(""stock_data.csv"", header=TRUE)"
+"0","head(stocks)"
